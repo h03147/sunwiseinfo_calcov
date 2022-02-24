@@ -24,12 +24,11 @@ public class GetFoldFileNamesUtil {
 
         File[] fa = f.listFiles();
         if (null != fa) {
-            for (int i = 0; i < fa.length; i++) {
-                File fs = fa[i];
+            for (File fs : fa) {
                 if (fs.isDirectory()) {
                     System.out.println(fs.getName() + " [目录]");
                 } else {
-    //                System.out.println(fs.getName());
+                    //                System.out.println(fs.getName());
                     jsonFileList.add(fs.getName());
                 }
             }
