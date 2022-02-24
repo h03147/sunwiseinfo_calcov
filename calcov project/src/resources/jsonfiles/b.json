@@ -1,0 +1,502 @@
+{
+  "caseCovs": [
+    {
+      "suiteName": "xsname",
+      "caseID": 1,
+      "files": [
+        {
+          "file": "D:\\src\\filexsone.c",
+          "funcs": [
+            {
+              "func": "xs1",
+              "lineCov": [
+                {
+                  "line": 75,
+                  "state": "T"
+                },
+                {
+                  "line": 79,
+                  "state": "T"
+                },
+                {
+                  "line": 80,
+                  "state": "T"
+                },
+                {
+                  "line": 81,
+                  "state": "T"
+                },
+                {
+                  "line": 82,
+                  "state": "T"
+                },
+                {
+                  "line": 84,
+                  "state": "T"
+                },
+                {
+                  "line": 86,
+                  "state": "T"
+                },
+                {
+                  "line": 88,
+                  "state": "T"
+                },
+                {
+                  "line": 90,
+                  "state": "T"
+                },
+                {
+                  "line": 92,
+                  "state": "F"
+                },
+                {
+                  "line": 93,
+                  "state": "F"
+                },
+                {
+                  "line": 94,
+                  "state": "F"
+                },
+                {
+                  "line": 95,
+                  "state": "F"
+                },
+                {
+                  "line": 96,
+                  "state": "F"
+                },
+                {
+                  "line": 97,
+                  "state": "F"
+                },
+                {
+                  "line": 100,
+                  "state": "T"
+                },
+                {
+                  "line": 102,
+                  "state": "T"
+                },
+                {
+                  "line": 106,
+                  "state": "F"
+                },
+                {
+                  "line": 107,
+                  "state": "F"
+                },
+                {
+                  "line": 109,
+                  "state": "F"
+                },
+                {
+                  "line": 111,
+                  "state": "T"
+                },
+                {
+                  "line": 113,
+                  "state": "F"
+                },
+                {
+                  "line": 114,
+                  "state": "F"
+                },
+                {
+                  "line": 115,
+                  "state": "F"
+                },
+                {
+                  "line": 121,
+                  "state": "T"
+                },
+                {
+                  "line": 123,
+                  "state": "F"
+                },
+                {
+                  "line": 124,
+                  "state": "F"
+                },
+                {
+                  "line": 127,
+                  "state": "T"
+                },
+                {
+                  "line": 129,
+                  "state": "F"
+                },
+                {
+                  "line": 130,
+                  "state": "F"
+                },
+                {
+                  "line": 131,
+                  "state": "F"
+                },
+                {
+                  "line": 133,
+                  "state": "F"
+                },
+                {
+                  "line": 135,
+                  "state": "F"
+                },
+                {
+                  "line": 136,
+                  "state": "F"
+                },
+                {
+                  "line": 139,
+                  "state": "F"
+                },
+                {
+                  "line": 141,
+                  "state": "F"
+                },
+                {
+                  "line": 142,
+                  "state": "F"
+                },
+                {
+                  "line": 151,
+                  "state": "F"
+                },
+                {
+                  "line": 152,
+                  "state": "F"
+                },
+                {
+                  "line": 154,
+                  "state": "F"
+                },
+                {
+                  "line": 155,
+                  "state": "F"
+                },
+                {
+                  "line": 156,
+                  "state": "F"
+                },
+                {
+                  "line": 157,
+                  "state": "F"
+                },
+                {
+                  "line": 159,
+                  "state": "F"
+                },
+                {
+                  "line": 160,
+                  "state": "F"
+                },
+                {
+                  "line": 161,
+                  "state": "F"
+                },
+                {
+                  "line": 162,
+                  "state": "F"
+                },
+                {
+                  "line": 163,
+                  "state": "F"
+                },
+                {
+                  "line": 165,
+                  "state": "F"
+                },
+                {
+                  "line": 166,
+                  "state": "F"
+                },
+                {
+                  "line": 170,
+                  "state": "F"
+                },
+                {
+                  "line": 172,
+                  "state": "F"
+                },
+                {
+                  "line": 173,
+                  "state": "F"
+                },
+                {
+                  "line": 174,
+                  "state": "F"
+                },
+                {
+                  "line": 176,
+                  "state": "F"
+                },
+                {
+                  "line": 180,
+                  "state": "F"
+                },
+                {
+                  "line": 181,
+                  "state": "F"
+                },
+                {
+                  "line": 183,
+                  "state": "F"
+                },
+                {
+                  "line": 184,
+                  "state": "F"
+                },
+                {
+                  "line": 185,
+                  "state": "F"
+                },
+                {
+                  "line": 187,
+                  "state": "F"
+                },
+                {
+                  "line": 188,
+                  "state": "F"
+                },
+                {
+                  "line": 189,
+                  "state": "F"
+                },
+                {
+                  "line": 191,
+                  "state": "F"
+                },
+                {
+                  "line": 192,
+                  "state": "F"
+                },
+                {
+                  "line": 193,
+                  "state": "F"
+                },
+                {
+                  "line": 194,
+                  "state": "F"
+                },
+                {
+                  "line": 196,
+                  "state": "F"
+                },
+                {
+                  "line": 197,
+                  "state": "F"
+                },
+                {
+                  "line": 198,
+                  "state": "F"
+                },
+                {
+                  "line": 199,
+                  "state": "F"
+                },
+                {
+                  "line": 201,
+                  "state": "F"
+                },
+                {
+                  "line": 202,
+                  "state": "F"
+                },
+                {
+                  "line": 203,
+                  "state": "F"
+                },
+                {
+                  "line": 204,
+                  "state": "F"
+                },
+                {
+                  "line": 206,
+                  "state": "F"
+                },
+                {
+                  "line": 207,
+                  "state": "F"
+                },
+                {
+                  "line": 208,
+                  "state": "F"
+                },
+                {
+                  "line": 210,
+                  "state": "F"
+                },
+                {
+                  "line": 211,
+                  "state": "F"
+                },
+                {
+                  "line": 212,
+                  "state": "F"
+                },
+                {
+                  "line": 213,
+                  "state": "F"
+                },
+                {
+                  "line": 215,
+                  "state": "F"
+                },
+                {
+                  "line": 216,
+                  "state": "F"
+                },
+                {
+                  "line": 217,
+                  "state": "F"
+                },
+                {
+                  "line": 219,
+                  "state": "F"
+                },
+                {
+                  "line": 220,
+                  "state": "F"
+                },
+                {
+                  "line": 221,
+                  "state": "F"
+                },
+                {
+                  "line": 223,
+                  "state": "F"
+                },
+                {
+                  "line": 224,
+                  "state": "F"
+                },
+                {
+                  "line": 225,
+                  "state": "F"
+                },
+                {
+                  "line": 227,
+                  "state": "F"
+                },
+                {
+                  "line": 228,
+                  "state": "F"
+                },
+                {
+                  "line": 229,
+                  "state": "F"
+                },
+                {
+                  "line": 232,
+                  "state": "F"
+                },
+                {
+                  "line": 233,
+                  "state": "F"
+                },
+                {
+                  "line": 234,
+                  "state": "F"
+                },
+                {
+                  "line": 235,
+                  "state": "F"
+                },
+                {
+                  "line": 238,
+                  "state": "T"
+                },
+                {
+                  "line": 239,
+                  "state": "T"
+                },
+                {
+                  "line": 240,
+                  "state": "T"
+                }
+              ],
+              "branchCov": [
+                {
+                  "id": 42,
+                  "state": "T"
+                },
+                {
+                  "id": 50,
+                  "state": "F"
+                },
+                {
+                  "id": 54,
+                  "state": "X"
+                },
+                {
+                  "id": 59,
+                  "state": "X"
+                },
+                {
+                  "id": 65,
+                  "state": "F"
+                },
+                {
+                  "id": 69,
+                  "state": "X"
+                },
+                {
+                  "id": 79,
+                  "state": "F"
+                },
+                {
+                  "id": 84,
+                  "state": "X"
+                },
+                {
+                  "id": 90,
+                  "state": "F"
+                },
+                {
+                  "id": 95,
+                  "state": "F"
+                },
+                {
+                  "id": 99,
+                  "state": "X"
+                },
+                {
+                  "id": 105,
+                  "state": "X"
+                },
+                {
+                  "id": 119,
+                  "state": "X"
+                },
+                {
+                  "id": 124,
+                  "state": "X"
+                },
+                {
+                  "id": 129,
+                  "state": "X"
+                },
+                {
+                  "id": 133,
+                  "state": "X"
+                },
+                {
+                  "id": 163,
+                  "state": "X"
+                }
+              ],
+              "mcdcCov": [
+                {
+                  "id": 42,
+                  "state": "RTTT"
+                }
+              ],
+              "callingPointCov": "49,64,83"
+            }
+          ]
+        }
+      ],
+      "callTimes": []
+    }
+  ]
+}

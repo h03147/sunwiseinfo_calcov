@@ -1,0 +1,102 @@
+{
+  "coxCovs": [
+    {
+      "files": [
+        {
+          "file": "C:\\src\\fileone.c",
+          "funcs": [
+            {
+              "func": "Function2",
+              "lineCov": [
+                {
+                  "line": 23,
+                  "state": "T"
+                },
+                {
+                  "line": 24,
+                  "state": "T"
+                },
+                {
+                  "line": 25,
+                  "state": "T"
+                },
+                {
+                  "line": 27,
+                  "state": "F"
+                },
+                {
+                  "line": 28,
+                  "state": "T"
+                }
+              ],
+              "branchCov": [
+                {
+                  "id": 10,
+                  "state": "T"
+                }
+              ],
+              "mcdcCov": [
+                {
+                  "id": 10,
+                  "state": "RTTX"
+                }
+              ],
+              "callingPointCov": ""
+            },
+            {
+              "func": "Function1",
+              "lineCov": [
+                {
+                  "line": 13,
+                  "state": "T"
+                },
+                {
+                  "line": 14,
+                  "state": "T"
+                },
+                {
+                  "line": 15,
+                  "state": "T"
+                },
+                {
+                  "line": 16,
+                  "state": "T"
+                },
+                {
+                  "line": 17,
+                  "state": "F"
+                },
+                {
+                  "line": 18,
+                  "state": "F"
+                },
+                {
+                  "line": 20,
+                  "state": "F"
+                },
+                {
+                  "line": 21,
+                  "state": "F"
+                }
+              ],
+              "branchCov": [
+                {
+                  "id": 1,
+                  "state": "F"
+                }
+              ],
+              "mcdcCov": [
+                {
+                  "id": 1,
+                  "state": "RTFX"
+                }
+              ],
+              "callingPointCov": ""
+            }
+          ]
+        }
+      ],
+      "callTimes": []
+    }
+  ]
+}

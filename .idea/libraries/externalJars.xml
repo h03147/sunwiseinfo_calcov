@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="externalJars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/calcov project/src/resources/externalJars/commons-io-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/calcov project/src/resources/externalJars/fastjson-1.2.54.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
