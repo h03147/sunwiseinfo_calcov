@@ -88,7 +88,11 @@
               "mcdcCov": [
                 {
                   "id": 1,
-                  "state": "RTFX"
+                  "state": "RFFF"
+                },
+                {
+                  "id": 10,
+                  "state": "RTTX"
                 }
               ],
               "callingPointCov": ""

@@ -1,0 +1,25 @@
+{
+  "file": "C:\\src\\fileone.c",
+  "decisions": [
+    {
+      "id": 1,
+      "expr": "C0||C1",
+      "type": "IF",
+      "loc": "14,12,14,39",
+      "elseLoc": "0,0,0,0",
+      "blockLoc": "14,9,19,9",
+      "casesOrSubconds": "3,5",
+      "mcdcTable": "TTX,TFT,FFF"
+    },
+    {
+      "id": 10,
+      "expr": "C0||C1",
+      "type": "IF",
+      "loc": "24,12,24,40",
+      "elseLoc": "0,0,0,0",
+      "blockLoc": "24,9,26,9",
+      "casesOrSubconds": "12,14",
+      "mcdcTable": "TTX,TFT,FFF"
+    }
+  ]
+}

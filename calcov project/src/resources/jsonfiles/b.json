@@ -487,11 +487,19 @@
               ],
               "mcdcCov": [
                 {
-                  "id": 42,
+                  "id": 29,
                   "state": "RTTT"
+                },
+                {
+                  "id": 36,
+                  "state": "RFFX"
+                },
+                {
+                  "id": 42,
+                  "state": "RFTF"
                 }
               ],
-              "callingPointCov": "49,64,83"
+              "callingPointCov": "29,36,42"
             }
           ]
         }

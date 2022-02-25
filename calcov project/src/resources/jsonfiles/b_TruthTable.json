@@ -1,0 +1,29 @@
+{
+  "file": "D:\\src\\filexsone.c",
+  "decisions": [
+    {
+      "id": 29,
+      "expr": "C0||C1",
+      "type": "IF",
+      "loc": "1,12,123,1234",
+      "casesOrSubconds": "22",
+      "mcdcTable": "TTT,FFX,FTF"
+    },
+    {
+      "id": 36,
+      "expr": "C0||C1",
+      "type": "IF",
+      "loc": "1,12,123,1234",
+      "casesOrSubconds": "22",
+      "mcdcTable": "TTT,FFX,FTF"
+    },
+    {
+      "id": 42,
+      "expr": "C0||C1",
+      "type": "IF",
+      "loc": "1,12,123,1234",
+      "casesOrSubconds": "22",
+      "mcdcTable": "TTT,FFX,FTF"
+    }
+  ]
+}

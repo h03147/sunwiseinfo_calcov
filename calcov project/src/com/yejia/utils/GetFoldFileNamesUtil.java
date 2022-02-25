@@ -5,10 +5,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
-*
-* @Description: 遍历项目resources目录下所有json文件名称
-* @date: 2022/2/24
-* @author: yj
+ * @Description: 遍历项目resources目录下所有json文件名称
+ * @date: 2022/2/24
+ * @author: yj
  */
 public class GetFoldFileNamesUtil {
 
@@ -28,8 +27,10 @@ public class GetFoldFileNamesUtil {
                 if (fs.isDirectory()) {
                     System.out.println(fs.getName() + " [目录]");
                 } else {
-                    //                System.out.println(fs.getName());
-                    jsonFileList.add(fs.getName());
+                    String fileName = fs.getName();
+                    if(!fileName.contains("TruthTable")) {
+                        jsonFileList.add(fileName);
+                    }
                 }
             }
         }
